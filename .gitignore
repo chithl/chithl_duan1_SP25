@@ -4,7 +4,7 @@ composer.phar
 composer.lock
 
 # Nếu muốn sử dụng hình ảnh chung cho nhóm thì xoá 1 dòng ở dưới nha, dòng này nè: /public/uploads/
-/public/uploads/
+# /public/uploads/
 
 /logs/php/php-errors.log
 ### Ampps ###
